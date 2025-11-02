@@ -8,7 +8,10 @@ int addNumbers(int a, int b) {
 
 int main() {
     // Variable declaration
-    int num1, num2;
+    int num1, num2,num3 ;  
+
+
+
 
     // Input
     cout << "Enter first number: ";
